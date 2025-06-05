@@ -5,16 +5,17 @@
 🌍 Based in Ottawa, Canada | Open to Remote Internships & Entry-Level Roles
 
 ## 🛠 Tech Stack
-- **Frontend**: React, Next.js, JavaScript, TypeScript, Tailwind CSS, SASS
+- **Frontend**: React, Node.js, Next.js, JavaScript, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, MySQL
 - **Tools**: Git, GitHub, Vercel, Jira, Agile, REST APIs
 
 ## 🚀 Featured Projects
 
-### 🍔 [Foodies](https://next-js-and-react-woad.vercel.app/)  
+### 🍔 [Foodies](https://next-js-and-react-woad.vercel.app/)  *(In Progress)*
 A restaurant discovery app that allows users to explore restaurants by category, rating, and location.  
-> 🔹 Built with Next.js, TypeScript, MongoDB, Tailwind CSS  
-> 🔹 Includes search filters, authentication, and responsive UI  
+> 🔹 Built with Next.js, React, JavaScript, CSS Modules    
+> 🔹 Implemented layout, routing, and filter structure  
+> 🔹 Up next: authentication and backend data integration
 > 🔹 Deployed via Vercel | [GitHub Repo](https://github.com/TheClaireLiu/Next.js-and-React/tree/master/05-onwards-foodies-starting-project)
 
 ## 📫 Let’s Connect
