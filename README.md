@@ -30,6 +30,16 @@ A responsive food discovery app that allows users to explore meals by category, 
 
 🔗 [GitHub Repo](https://github.com/TheClaireLiu/Next.js-and-React/tree/master/05-onwards-foodies-starting-project)
 
+## 🤝 Team Project
+
+### 🏥 [Surgery Status App](https://github.com/chingu-voyages/v56-tier2-team-24) *(Chingu Voyage 56)*
+A real-time app that helps families track the status of patients during surgery.
+
+> 🔹 Built with React, Tailwind CSS  
+> 🔹 Collaborated with global team members in an Agile workflow  
+> 🔹 Used Hammertime & Timeful to manage async work  
+> 🔹 Focus on responsive UI and production-quality development  
+
 ---
 
 ## 📫 Let’s Connect
