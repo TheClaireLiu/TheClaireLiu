@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Claire Liu
-
-🎓 Final-semester Web Development student  
+ 
 🌱 Passionate about building user-centric, accessible web applications  
 🌍 Based in Ottawa, Canada | Open to Remote Internships & Entry-Level Developer Roles
 
